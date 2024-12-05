@@ -1,9 +1,18 @@
 
-# API REST Lol
+# Nombre: LolNexuxApi
 
 ## Descripción
 
-Una api rest donde los usuarios podran consultar y gestionar informacion sobre campeones partidas etc...
+Esta API gestiona un sistema para el seguimiento de partidas de un juego competitivo, 
+enfocándose en los usuarios, los campeones utilizados y los resultados de las partidas. 
+Permite a los desarrolladores integrar funcionalidades relacionadas con el manejo de datos de usuarios, campeones y estadísticas de partidas. 
+
+---
+
+## Justificación
+
+La idea de hacer esta API surge porque en muchos juegos competitivos hay un montón de información interesante que los jugadores pueden querer analizar: 
+desde con qué campeones juegan mejor, hasta cómo han mejorado con el tiempo o qué tan bien les va contra ciertos tipos de campeones.
 
 ---
 
